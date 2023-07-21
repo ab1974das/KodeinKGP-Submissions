@@ -1,0 +1,9 @@
+body{
+    background-color: cornsilk;
+    text-align: center;
+}
+#demobutton{
+    background-color: blue;
+    -webkit-text-fill-color: white;
+    size:10cm
+}
